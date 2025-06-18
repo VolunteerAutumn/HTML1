@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color:#2d2a75;
+  font-family: monospace;
+}
+
+h4 {
+  color: #4a4a4a;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+p {
+  color: black;
+  font-family: monospace;
+  font-size: 15px;
+}
